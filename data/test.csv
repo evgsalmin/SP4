@@ -1,0 +1,508 @@
+dish_id,ingredients,total_mass,total_calories
+dish_1561662216,"soy sauce, garlic, white rice, parsley, onions, brown rice, vinegar, apple, mixed greens, sugar, salt, lemon juice, olive oil, pork, bok choy, pepper, millet",193.0,300.794281
+dish_1562008979,"jalapenos, lemon juice, pork, wheat berry, cabbage, pepper, salt, carrot, garlic, caesar salad, olive oil, parsley, mayonnaise",290.0,382.936646
+dish_1561739238,"egg whites, hash browns, berries, sweet potato",257.0,274.190002
+dish_1562691032,"berries, olive oil, pineapple, scrambled eggs, roasted potatoes, broccoli",415.0,419.681702
+dish_1558549773,spinach (raw),10.0,2.3
+dish_1566920365,"salsa, sweet potato, olive oil, egg whites",871.0,490.421692
+dish_1563984242,"sweet potato, egg whites, pineapple, olive oil, cantaloupe",753.0,402.117035
+dish_1563998323,"roasted potatoes, shallots, olive oil, tatsoi, butter, jalapenos, wheat berry, mushroom, steak, oregano, chicken, pepper, salt, garlic, white wine, cilantro, vinegar, thyme, lemon juice, rosemary, arugula, basil, brown rice, cream, parsley, cauliflower",574.0,634.505066
+dish_1563996485,"salt, pepper, blueberries, chard, arugula, vinegar, mustard, olive oil, walnuts, roasted potatoes, cauliflower",201.0,178.039185
+dish_1559239151,spinach (raw),40.0,9.2
+dish_1563998210,"garlic, olive oil, thyme, lemon juice, butter, cream, oregano, chicken, pepper, white wine, shallots, arugula, rosemary, mushroom, basil, wheat berry, salt",91.0,148.089218
+dish_1558376306,sausage,108.0,372.167999
+dish_1558114086,deprecated,143.0,74.360001
+dish_1558720236,"apple, carrot, cauliflower, almonds",407.0,887.823059
+dish_1562618000,"vinegar, olive oil, garlic, mustard greens, pepper, salt, radishes, lemon juice, thyme, brown rice, parsley, basil, arugula, chicken thighs, chickpeas, broccoli",448.0,685.993896
+dish_1562617703,frozen yogurt,110.0,179.630005
+dish_1566502505,"sun dried tomatoes, bok choy, pork, corn on the cob, cucumbers, onions, salt, soy sauce, garlic, sugar, pepper, white rice, vinegar, spinach (raw), mustard, olive oil",275.0,454.517365
+dish_1566849923,"olives, cherry tomatoes, carrot",240.0,127.970001
+dish_1566502537,"corn on the cob, vinegar, parsley, sun dried tomatoes, rosemary, carrot, salt, garlic, mustard, cucumbers, lemon juice, olive oil, chive, pork, chicken, spinach (raw), pepper, bok choy, white rice, brown rice, soy sauce, chard, sugar, onions, basil",315.0,517.644226
+dish_1566838407,"pineapple, scrambled eggs, sweet potato, berries, olive oil, watermelon",558.0,358.947601
+dish_1562099053,cheese pizza,37.0,98.382996
+dish_1558546663,"spinach (raw), almonds, apple",197.0,330.734009
+dish_1568305257,"turkey bacon, salt, bell peppers, mustard, olive oil, cucumbers, vinegar, scrambled eggs, garlic, radishes",420.0,837.147766
+dish_1564689108,"chickpeas, salt, garlic, blueberries, pepper, pears, arugula, mustard, olive oil, parsley, almonds, vinegar, spinach (raw), lemon juice, carrot",159.0,203.66246
+dish_1565898158,"cilantro, ginger, spinach (raw), jalapenos, lemon juice, lime, salt, onions, shallots, garlic, salmon, green beans, brown rice, olive oil, chili",194.0,240.425751
+dish_1558719994,almonds,133.0,768.873047
+dish_1558031302,potatoes,74.0,56.98
+dish_1560368464,"olive oil, brown rice, vinegar, cherry tomatoes, honeydew melons, shallots, parsley, basil, lemon juice, onions, pork, pepper, garlic, broccoli, salt",275.0,349.449951
+dish_1563551194,"olive oil, sweet potato, egg whites, bagels, greek yogurt, chia seeds, milk, cream cheese",400.0,471.643555
+dish_1559849412,almonds,61.0,352.641022
+dish_1560801773,cauliflower,54.0,13.5
+dish_1566502573,"chive, bok choy, chicken, white rice, pork, arugula, spinach (raw), brown rice, chard, mustard, olive oil, garlic, cucumbers, sugar, rosemary, pepper, sun dried tomatoes, lemon juice, mustard greens, parsley, vinegar, corn on the cob, basil, onions, carrot, soy sauce, salt, chickpeas",487.0,821.510193
+dish_1568401261,"salt, squash, carrot, avocado, tuna salad, olive oil",443.0,530.393372
+dish_1558461431,spinach (raw),5.0,1.15
+dish_1562790824,"salt, bell peppers, garlic, mustard, cucumbers, olive oil, vinegar, country rice, onions, green onions, fish, radishes",368.0,437.071686
+dish_1558718610,corn on the cob,107.0,113.527
+dish_1560975517,"broccoli, caesar salad",99.0,42.389999
+dish_1558639787,cauliflower,99.0,24.75
+dish_1560203424,"pepperoni pizza, brownies",138.0,451.753998
+dish_1562776497,"pepper, olive oil, brussels sprouts, sweet potato, scrambled eggs, salt",292.0,291.832458
+dish_1560444869,honeydew melons,39.0,14.040001
+dish_1564773903,"cherry tomatoes, lentils, salmon, arugula, pineapple, parsley, kale, olive oil, shallots, pepper, pickles, salt, mayonnaise, lemon juice, broccoli, garlic, chive",336.0,316.827545
+dish_1561661347,"green beans, caesar salad",132.0,50.669998
+dish_1558722247,"almonds, cauliflower, apple",343.0,604.616028
+dish_1565811091,"broccoli, spinach (raw), carrot, chicken, goat cheese",371.0,504.400024
+dish_1557861216,plate only,1.0,0.0
+dish_1563220987,"olive oil, arugula, pork, salt, onions, parsley, zucchini, rosemary, garlic, white rice",110.0,224.987503
+dish_1563984140,egg whites,472.0,245.439987
+dish_1562774099,"raspberries, vinaigrette, mixed greens, granola, blackberries",40.0,51.993542
+dish_1560444892,"honeydew melons, pineapple",90.0,39.540001
+dish_1561662814,"olive oil, salt, lemon juice, onions, parsley, mixed greens, apple, millet, vinegar",20.0,23.243509
+dish_1558549413,almonds,118.0,682.15802
+dish_1561574368,caesar salad,50.0,22.0
+dish_1567007751,"berries, cantaloupe",87.0,39.93
+dish_1558373159,"sausage, deprecated, almonds",334.0,1013.337036
+dish_1557862738,steak,118.0,319.779999
+dish_1560444948,"cucumbers, watermelon, pineapple, scrambled eggs, radishes, salt, garlic, honeydew melons, olive oil, bell peppers, mustard, vinegar",231.0,171.316879
+dish_1560367952,"fish, spinach (raw), pizza, onions, country rice, olive oil, salt, garlic, green onions",221.0,414.733154
+dish_1568401302,"fried rice, salt, squash, carrot, avocado, olive oil, tuna salad",561.0,716.47937
+dish_1558630288,garden salad,11.0,7.106
+dish_1563998513,"chicken, pepper, cookies, brown rice, arugula, vinegar, oregano, tatsoi, olive oil, basil, cilantro, white wine, salt, roasted potatoes, garlic, shallots, cauliflower, mushroom, steak, jalapenos, cream, wheat berry, thyme, butter, rosemary, lemon juice, parsley",599.0,757.505066
+dish_1558544663,oatmeal,208.0,141.440002
+dish_1562691064,"berries, fried rice, olive oil, pineapple, scrambled eggs, roasted potatoes, broccoli",501.0,555.303711
+dish_1559233715,sweet potato,110.0,83.599998
+dish_1566328724,chicken,167.0,275.549988
+dish_1559842047,"broccoli, pears, mandarin oranges",285.0,153.690002
+dish_1560975572,"caesar salad, wheat berry, broccoli",159.0,96.990005
+dish_1566328776,"chicken, cherry tomatoes, pizza",436.0,901.810059
+dish_1566316681,"sweet potato, olive oil",122.0,116.762924
+dish_1564687090,"fish, millet, white rice, ketchup, steak, spinach (raw), jalapenos, onions, wheat berry, olive oil, bell peppers, cilantro, vinegar, kale, green beans, lime, shallots, salt",416.0,498.018677
+dish_1565894910,"pizza, cheese pizza, cookies",179.0,537.113037
+dish_1561654326,"vinaigrette, granola, blackberries, mixed greens, raspberries",46.0,59.79258
+dish_1565974375,bacon,85.0,459.849976
+dish_1560368506,"brown rice, fish, shallots, honeydew melons, broccoli, lemon juice, parsley, pork, vinegar, cherry tomatoes, pepper, garlic, salt, country rice, basil, olive oil, onions, green onions",378.0,462.933777
+dish_1562085672,bread,46.0,122.084
+dish_1561148042,"raspberries, ground turkey, cream, green beans, celery, chard, garlic, zucchini, almonds, olive oil, carrot, thyme, kale, salt, white rice, eggs, blueberries, mustard, arugula, vinegar, mushroom, onions, cheese pizza, chive",245.0,370.755463
+dish_1566328831,"pizza, cherry tomatoes, chicken, pineapple, olives",500.0,941.609985
+dish_1558461692,almonds,40.0,231.240005
+dish_1565035715,onions,39.0,15.6
+dish_1566590056,"tomatoes, pepper, millet, vinegar, tofu, jalapenos, mustard, olive oil, bell peppers, cherry tomatoes, chicken, chard, spinach (raw), pizza, cucumbers, onions, garlic, salt, figs",519.0,815.647644
+dish_1566590007,"bell peppers, garlic, tomatoes, salt, onions, olive oil, pizza, pepper, tofu, jalapenos, spinach (raw), chicken, millet",457.0,740.762024
+dish_1558635400,cauliflower,100.0,25.0
+dish_1557937335,yam,38.0,47.158001
+dish_1564428144,"garlic, shallots, parsley, salt, mustard, pecans, thyme, olive oil, blueberries, arugula, vinegar, chard, lemon juice, quinoa",171.0,205.212921
+dish_1558635618,"corn on the cob, apple, white rice, cauliflower",334.0,220.253998
+dish_1565034635,"cherry tomatoes, vinegar, chard, blueberries, cucumbers, salt, lettuce, walnuts, lime, pepper, arugula, olive oil, mustard, onions, mixed greens",110.0,124.089249
+dish_1566328805,"cherry tomatoes, pizza, chicken, pineapple",488.0,927.809998
+dish_1565974409,"chicken apple sausage, bacon",228.0,688.649963
+dish_1563478751,"cream, mushroom, spinach (raw), olive oil, pasta, beef, wine, garlic, sour cream, onions, thyme, salt",545.0,950.395081
+dish_1564773876,"cherry tomatoes, pepper, salmon, lentils, lemon juice, parsley, chive, broccoli, pickles, mayonnaise, kale, arugula, olive oil, salt, garlic, shallots",219.0,258.327576
+dish_1561148021,"garlic, mushroom, chard, chive, olive oil, onions, raspberries, mustard, salt, cheese pizza, kale, white rice, eggs, cream, vinegar, arugula, thyme, blueberries, almonds, zucchini, ground turkey, celery, carrot",216.0,361.765411
+dish_1558030435,"honeydew melons, potatoes, bacon",221.0,246.940002
+dish_1562617939,"chickpeas, salt, mustard greens, olive oil, parsley, vinegar, arugula, pepper",133.0,234.966125
+dish_1563208459,"raspberries, yam, sweet potato, olive oil, chicken apple sausage",161.0,186.485947
+dish_1563389626,"salt, pepper, grilled chicken, carrot, olive oil, cherry tomatoes",360.0,498.620026
+dish_1566316757,"sweet potato, egg whites, olive oil, salsa",819.0,448.382874
+dish_1558641320,"apple, carrot, corn on the cob, cherry tomatoes",336.0,211.589996
+dish_1563909469,"tomatoes, spinach (raw), vinegar, cucumbers, olive oil, mustard greens, mustard, garlic, salt",64.0,72.402824
+dish_1566850099,"onions, cucumbers, olive oil, salt, mixed greens, lettuce, lime, cherry tomatoes, pepper, vinegar",112.0,113.057968
+dish_1558549605,white rice,75.0,97.5
+dish_1561578865,"cheese, pasta, spinach (raw), olive oil, blueberries, salt, broccoli, pesto, vinegar, cherry tomatoes, pepper, arugula, chard, onions, mustard, cheese pizza, walnuts",246.0,417.185303
+dish_1561574428,"walnuts, caesar salad, salt, mustard, olive oil, blueberries, chard, arugula, vinegar, pepper, cauliflower",172.0,84.002373
+dish_1562786103,frozen yogurt,57.0,93.081001
+dish_1566587102,"chicken, millet, pepper, spinach (raw), jalapenos, olive oil, garlic, onions, salt, tomatoes, bell peppers",146.0,213.599411
+dish_1566502437,"vinegar, spinach (raw), sun dried tomatoes, garlic, onions, cucumbers, mustard, salt, olive oil",64.0,74.564041
+dish_1560367980,"asparagus, salt, onions, country rice, olive oil, green onions, pizza, spinach (raw), fish, garlic",254.0,421.465118
+dish_1565711570,"salt, pepper, brussels sprouts, scrambled eggs, olive oil, hash browns, bacon",324.0,603.827271
+dish_1558639876,"carrot, cantaloupe, cauliflower",215.0,68.18
+dish_1566838378,"scrambled eggs, watermelon, berries, pineapple",482.0,286.210022
+dish_1557937037,raspberries,49.0,25.969999
+dish_1562008936,caesar salad,131.0,57.639999
+dish_1558376364,grapes,71.0,48.990002
+dish_1560801041,"pork, zucchini, arugula, chicken breast, cherry tomatoes, rosemary, lemon juice, thyme, olive oil, onions, wheat berry, parmesan cheese, pepper, spinach (raw), cauliflower, garlic, chickpeas, white rice, salt, bulgur, parsley, kale",292.0,432.244263
+dish_1563897047,egg whites,127.0,66.040001
+dish_1560526552,"salt, sausage, pineapple, blueberries, spinach (raw), parsley, mustard greens, potatoes, berries, tomatoes, scrambled eggs, vinegar, mustard, cucumbers, almonds, olive oil, garlic, carrot",319.0,359.240814
+dish_1562703408,"onions, spinach (cooked), shallots, berries, salt, pizza, olive oil, vinegar, bok choy, millet, beef",196.0,311.209167
+dish_1562172600,"egg whites, roasted potatoes",370.0,263.599976
+dish_1561574783,"salt, mustard, blueberries, pepper, arugula, chard, vinegar, olive oil, walnuts",24.0,29.626781
+dish_1560444985,"honeydew melons, pineapple, radishes, bok choy, vinegar, watermelon, yam, mustard, olive oil, cucumbers, garlic, bell peppers, salt, scrambled eggs",264.0,198.937866
+dish_1565035858,"cherry tomatoes, chicken breast, watermelon, bell peppers, cauliflower, onions",531.0,375.227997
+dish_1565811061,"chicken, carrot, spinach (raw), broccoli",324.0,380.320007
+dish_1559844490,"grapes, mandarin oranges",180.0,108.360001
+dish_1558720097,carrot,74.0,30.34
+dish_1566851616,"caesar salad, broccoli, cheese pizza, olive oil",248.0,300.7789
+dish_1561662190,"salt, brown rice, mixed greens, olive oil, parsley, onions, lemon juice, vinegar, millet, apple",104.0,117.318321
+dish_1565030350,"lettuce, mixed greens, lime, salt, cucumbers, onions, olive oil, vinegar, pepper, cherry tomatoes",62.0,62.585663
+dish_1562774129,"berries, vinaigrette, granola, blackberries, mixed greens, raspberries",77.0,73.083549
+dish_1559849466,"pears, almonds",262.0,467.613037
+dish_1561739212,"berries, egg whites, sweet potato",214.0,134.01001
+dish_1563565454,"carrot, cherry tomatoes, fish, chard, mushroom, wheat berry, ground turkey, thyme, bok choy, lemon juice, kale, arugula, salt, pecans, blueberries, mustard, eggs, corn on the cob, vinegar, cream, onions, celery, olive oil, parsley, chive, shallots, garlic, white rice",322.0,350.788818
+dish_1561661377,"garlic, chard, brown rice, green beans, chicken, salt, carrot, caesar salad, parsley, chive, rosemary, basil, lemon juice, olive oil",294.0,306.333679
+dish_1559233570,strawberries,51.0,16.83
+dish_1558113941,"mixed greens, almonds",78.0,296.890015
+dish_1558110385,eggs,34.0,52.869999
+dish_1566850031,"olives, carrot, chicken, caesar dressing, cherry tomatoes, onions",662.0,616.771973
+dish_1562690886,"broccoli, olive oil",37.0,20.611706
+dish_1563565323,"eggs, corn on the cob, ground turkey, thyme, kale, celery, salt, carrot, white rice, mushroom, cream, onions, olive oil, chive, garlic",152.0,229.530243
+dish_1561739188,"berries, sweet potato",143.0,97.089996
+dish_1564687046,"white rice, salt, shallots, olive oil, onions, jalapenos, steak, green beans, bell peppers, millet, cilantro, kale, ketchup, vinegar, spinach (raw), fish, lime",308.0,374.793854
+dish_1563208412,chicken apple sausage,39.0,62.400002
+dish_1562790775,"bell peppers, cucumbers, salt, mustard, garlic, olive oil, vinegar, radishes",40.0,75.686295
+dish_1565811139,"carrot, goat cheese, olive oil, broccoli, spinach (raw), chicken",416.0,902.200012
+dish_1558641164,apple,154.0,80.079994
+dish_1558461607,grapes,127.0,87.629997
+dish_1559157454,"arugula, chard, vinegar, pepper, walnuts, salt, mustard, olive oil, blueberries",28.0,34.564575
+dish_1561405389,"white rice, chickpeas, soy sauce, arugula, ginger, spinach (raw), parsley, pears, broccoli, garlic, salt, pepper, vinegar, green beans, olive oil, lemon juice, green onions, chicken",223.0,265.983459
+dish_1560526514,"potatoes, cucumbers, mustard greens, olive oil, almonds, carrot, berries, pineapple, blueberries, parsley, mustard, garlic, salt, tomatoes, spinach (raw), vinegar",224.0,183.252747
+dish_1560368019,"pizza, salt, green onions, onions, olive oil, country rice, eggplant, spinach (raw), fish, asparagus, garlic",301.0,436.965942
+dish_1562703382,"pizza, berries",145.0,203.869995
+dish_1563909507,"mustard, garlic, tomatoes, salt, cucumbers, olive oil, mustard greens, spinach (raw), vinegar, green beans",151.0,117.925575
+dish_1566587143,"bell peppers, chicken, tomatoes, onions, salt, olive oil, avocado, jalapenos, spinach (raw), pepper, garlic, millet",234.0,354.399445
+dish_1565811000,"chicken, spinach (raw)",225.0,342.850006
+dish_1561393764,"broccoli, scrambled eggs, bacon",182.0,280.799988
+dish_1565035802,"onions, cherry tomatoes, cauliflower, bell peppers",250.0,69.200005
+dish_1558717604,apple,142.0,73.839996
+dish_1562168696,"raspberries, vinaigrette, berries, granola, blackberries, mixed greens, honeydew melons",141.0,95.114838
+dish_1565035830,"cherry tomatoes, chicken breast, bell peppers, cauliflower, onions",414.0,340.127991
+dish_1562788601,"fish, vinegar, corn on the cob, brown rice, country rice, basil, green onions, salt, cherry tomatoes, pepper, pork, lemon juice, parsley, pilaf, olive oil, onions, garlic, broccoli, shallots",287.0,413.170135
+dish_1561405356,"ginger, vinegar, olive oil, garlic, soy sauce, broccoli, green onions, salt, chicken, white rice, spinach (raw), green beans",176.0,206.645203
+dish_1557937079,bacon,27.0,146.069992
+dish_1562168648,"vinaigrette, raspberries, mixed greens, granola, blackberries",32.0,41.594833
+dish_1558376734,sausage,60.0,206.76001
+dish_1563221086,"onions, cranberries, arugula, cherry tomatoes, chicken breast, white rice, vinegar, apple, garlic, salt, parsley, zucchini, rosemary, olive oil, thyme, wheat berry, pork, spinach (raw), parmesan cheese, mustard, broccoli",254.0,328.277618
+dish_1564427406,grilled chicken,135.0,305.370026
+dish_1566414225,"olive oil, quinoa",88.0,125.182129
+dish_1558635546,apple,117.0,60.839996
+dish_1565020867,"egg whites, berries, bacon, sweet potato, olive oil",325.0,255.804886
+dish_1564773847,"garlic, shallots, pepper, salmon, cherry tomatoes, olive oil, parsley, chive, lemon juice, pickles, mayonnaise, arugula, lentils, kale, salt",161.0,238.027573
+dish_1564675411,"egg whites, turkey bacon",308.0,235.531006
+dish_1566851549,cheese pizza,85.0,226.014999
+dish_1566501594,brownies,109.0,508.048981
+dish_1558630325,"apple, garden salad, almonds",269.0,751.541992
+dish_1560368570,"honeydew melons, pepper, cherry tomatoes, lettuce, mixed greens, pork, mustard, olive oil, lemon juice, onions, carrot, broccoli, green onions, shallots, arugula, vinegar, brown rice, fish, pumpkin seeds, basil, parsley, country rice, salt, garlic",452.0,555.932739
+dish_1559844366,"almonds, broccoli, grapes",192.0,529.220032
+dish_1559849497,"almonds, pears, grapes",340.0,521.433044
+dish_1561741063,cottage cheese,135.0,132.300003
+dish_1560444931,"watermelon, honeydew melons, pineapple, scrambled eggs",200.0,112.660004
+dish_1561577947,"olive oil, basil, arugula, blueberries, vinegar, mustard, walnuts, white wine, salt, rosemary, oregano, cream, mushroom, wheat berry, chard, pepper, chicken, shallots, garlic, butter, lemon juice, thyme",424.0,623.204285
+dish_1564588859,"egg whites, greek yogurt, milk, chia seeds",257.0,183.586426
+dish_1565898361,"brown rice, ginger, vinegar, beef, salmon, spinach (cooked), millet, lime, onions, spinach (raw), jalapenos, bok choy, shallots, garlic, chili, cilantro, salt, lemon juice, olive oil",202.0,370.671448
+dish_1558718680,almonds,23.0,132.962997
+dish_1563996509,"walnuts, cauliflower, oregano, arugula, mushroom, chard, wheat berry, garlic, shallots, thyme, cream, mustard, rosemary, white wine, chicken, pepper, vinegar, olive oil, blueberries, lemon juice, basil, salt, butter, roasted potatoes",316.0,365.184875
+dish_1564689078,"almonds, olive oil, mustard, parsley, carrot, salt, blueberries, spinach (raw), vinegar",55.0,72.360779
+dish_1565894889,"cheese pizza, cookies",74.0,257.812988
+dish_1562700496,cauliflower,124.0,31.0
+dish_1561574479,"beef, walnuts, salt, onions, bok choy, olive oil, mustard, arugula, vinegar, blueberries, chard, millet, cauliflower, cheese pizza, spinach (cooked), caesar salad, shallots, pepper",293.0,363.61377
+dish_1556575327,"celery, olives, brussels sprouts",152.0,103.300003
+dish_1562876531,"pepper, chicken, wheat berry, lemon juice, basil, parsley, garlic, squash, spinach (raw), zucchini, rosemary, olive oil, thyme, caesar salad, salt",85.0,66.066925
+dish_1558113477,almonds,50.0,289.050018
+dish_1565986733,"white rice, mushroom, ground turkey, chard, celery, wheat berry, onions, olive oil, cream, chive, garlic, salt, shallots, carrot, cherry tomatoes, fish, eggs, thyme, kale, parsley, lemon juice",287.0,387.929382
+dish_1560368395,honeydew melons,137.0,49.320004
+dish_1562790855,"radishes, fish, cherry tomatoes, shallots, onions, mustard, parsley, garlic, basil, salt, pepper, pork, lemon juice, brown rice, country rice, cucumbers, olive oil, vinegar, bell peppers, broccoli, green onions",507.0,739.376465
+dish_1564428181,"garlic, olive oil, parsley, pecans, lemon juice, salt, shallots, pepper, arugula, vinegar, chard, quinoa, thyme, pork, mustard, wheat berry, jalapenos, mayonnaise, carrot, cabbage, blueberries",320.0,510.05069
+dish_1563998279,"chicken, cilantro, parsley, brown rice, mushroom, steak, wheat berry, thyme, basil, white wine, shallots, garlic, vinegar, pepper, arugula, jalapenos, oregano, cream, tatsoi, butter, rosemary, olive oil, lemon juice, salt, roasted potatoes",296.0,565.005005
+dish_1562963325,"sugar, garlic, pepper, white rice, bok choy, pork, salt, cheese pizza, soy sauce, caesar salad",379.0,760.161926
+dish_1560444914,"honeydew melons, pineapple, watermelon",166.0,62.340004
+dish_1560526530,"berries, mustard greens, parsley, tomatoes, cucumbers, vinegar, almonds, olive oil, mustard, sausage, salt, carrot, potatoes, garlic, pineapple, spinach (raw), blueberries",242.0,245.280746
+dish_1564773976,"cherry tomatoes, chicken breast, shallots, olive oil, mayonnaise, arugula, salmon, pepper, pickles, chive, olives, salt, garlic, broccoli, parsley, kale, lemon juice, lentils, pineapple",463.0,516.089478
+dish_1559578551,bacon,23.0,124.429993
+dish_1565986702,"lemon juice, wheat berry, parsley, cherry tomatoes, fish, salt, garlic, shallots, chive, olive oil, chard",204.0,211.343994
+dish_1565118729,"shallots, salt, kale, onions, olive oil, chard, vinegar, beef, spinach (cooked), millet, bok choy",248.0,435.493286
+dish_1557936555,eggs,96.0,149.279999
+dish_1558373074,deprecated,142.0,73.839996
+dish_1559849053,"grapes, almonds",125.0,381.528015
+dish_1568401199,"tuna salad, squash, olive oil, salt",343.0,459.643372
+dish_1559846688,"vinegar, beets, arugula, onions, mustard, carrot, olive oil, salt, lettuce",73.0,82.832451
+dish_1564675380,turkey bacon,23.0,87.331001
+dish_1563996464,"blueberries, vinegar, arugula, chard, pepper, olive oil, cauliflower, walnuts, salt, mustard",146.0,100.489189
+dish_1562774159,"raspberries, vinaigrette, cantaloupe, granola, blackberries, mixed greens, berries",129.0,90.76355
+dish_1560801883,"arugula, chicken breast, cherry tomatoes, spinach (raw), squash, wheat berry, parmesan cheese, garlic, rosemary, zucchini, parsley, salt, cauliflower, white rice, thyme, pepperoni pizza, pork, olive oil, onions",315.0,512.111267
+dish_1561574848,"basil, feta cheese, pepper, shallots, cucumbers, olive oil, blueberries, wheat berry, vinegar, chard, chicken, cherry tomatoes, bell peppers, onions, mustard, white wine, lemon juice, cream, oregano, vinaigrette, olives, mushroom, arugula, walnuts, garlic, butter, salt, rosemary, lettuce, thyme",155.0,182.258301
+dish_1563551220,"cream cheese, berries, greek yogurt, milk, chia seeds, bagels, egg whites, olive oil, sweet potato",558.0,561.703552
+dish_1563998244,"roasted potatoes, white wine, basil, cream, oregano, pepper, arugula, mushroom, shallots, garlic, salt, butter, lemon juice, rosemary, olive oil, thyme, wheat berry, chicken",170.0,259.479187
+dish_1562009006,"wheat berry, olive oil, jalapenos, pork, salt, pizza, cabbage, garlic, caesar salad, carrot, parsley, lemon juice, mayonnaise, pepper",323.0,470.716644
+dish_1560800951,"parsley, cauliflower, kale, lemon juice, olive oil, pepper, bulgur, chickpeas, salt",168.0,102.825645
+dish_1557936599,broccoli,63.0,22.049999
+dish_1560801859,"squash, onions, pepperoni pizza, arugula, parsley, garlic, white rice, cauliflower, rosemary, salt, zucchini, pork, olive oil",262.0,428.704285
+dish_1568401167,tuna salad,228.0,426.360016
+dish_1565020755,bacon,8.0,43.279999
+dish_1560526408,"blueberries, parsley, mustard, salt, carrot, almonds, spinach (raw), vinegar, olive oil",51.0,67.098175
+dish_1564427455,"grilled chicken, olives, cherry tomatoes",218.0,354.26004
+dish_1558375667,almonds,119.0,687.939026
+dish_1557937715,raspberries,39.0,20.669998
+dish_1562009894,"goat cheese, olives, garlic, vinegar, brown rice, olive oil, mustard, salt, pears, mixed greens",200.0,244.80722
+dish_1560526447,"salt, carrot, cucumbers, almonds, mustard greens, olive oil, mustard, parsley, vinegar, spinach (raw), blueberries, garlic, tomatoes",70.0,88.592773
+dish_1563551164,"bagels, sweet potato, olive oil, egg whites, cream cheese",270.0,339.756073
+dish_1568401233,"salt, squash, carrot, tuna salad, olive oil",418.0,490.393372
+dish_1562703447,"salt, spinach (cooked), vinegar, millet, berries, beef, shallots, mixed greens, onions, olive oil, pizza, lemon juice, parsley, bok choy, apple",259.0,384.426239
+dish_1558030383,bacon,26.0,140.660004
+dish_1561663541,brown rice,112.0,124.32
+dish_1560975491,caesar salad,86.0,37.84
+dish_1564427430,"grilled chicken, olives",170.0,345.620026
+dish_1565898331,"spinach (raw), olive oil, lime, cilantro, garlic, shallots, chili, salt, lemon juice, ginger, salmon, brown rice, jalapenos, onions",100.0,155.993118
+dish_1567785622,berries,54.0,30.779999
+dish_1562099134,"eggplant, chicken thighs, mushroom, vinegar, cherry tomatoes, lime, mixed greens, spinach (cooked), garlic, shallots, lemon juice, onions, olive oil, pepper, quinoa, wine, carrot, cheese pizza, salt, lettuce, cucumbers, squash",188.0,271.641266
+dish_1558461760,cherry tomatoes,61.0,10.98
+dish_1558030182,potatoes,88.0,67.759995
+dish_1564689168,"lime, parsley, blueberries, vinegar, arugula, mustard, onions, almonds, mixed greens, carrot, salt, pears, garlic, pepper, spinach (raw), tofu, lemon juice, cucumbers, olive oil, chickpeas, cherry tomatoes, lettuce",339.0,352.946991
+dish_1562963246,cheese pizza,122.0,324.39798
+dish_1565896745,"pepper, arugula, salt, garlic, walnuts, cauliflower, vinegar, steak, chard, blueberries, wheat berry, olive oil, kale, mustard, lime",244.0,368.540344
+dish_1560526472,"salt, carrot, tomatoes, olive oil, almonds, mustard, parsley, mustard greens, vinegar, blueberries, spinach (raw), cucumbers, berries, garlic",114.0,113.672775
+dish_1561578839,"vinegar, mustard, cheese pizza, salt, walnuts, broccoli, pepper, olive oil, chard, arugula, blueberries",214.0,362.154694
+dish_1557862783,"cauliflower, steak, chicken",258.0,442.97998
+dish_1565711527,"salt, pepper, brussels sprouts, scrambled eggs, olive oil, hash browns",302.0,484.807251
+dish_1565123881,"caesar salad, olive oil, onions, cheese pizza, zucchini, spinach (cooked), millet, shallots, bok choy, salt, beef, chayote squash, vinegar",515.0,406.821747
+dish_1558375833,sausage,92.0,317.032013
+dish_1565898432,"shallots, blueberries, arugula, green beans, ginger, spinach (raw), brown rice, jalapenos, chard, olive oil, mustard, walnuts, chili, lime, garlic, cilantro, salmon, bok choy, beef, vinegar, pepper, lemon juice, onions, salt, spinach (cooked), millet",282.0,450.224976
+dish_1562788536,"pilaf, corn on the cob",190.0,245.132004
+dish_1563565508,"ground turkey, vinegar, celery, onions, parmesan cheese, thyme, carrot, salt, white rice, arugula, parsley, caesar dressing, olive oil, chive, eggs, bok choy, cream, mushroom, chard, kale, garlic, fish, cherry tomatoes, wheat berry, blueberries, lemon juice, corn on the cob, mustard, pecans, shallots, croutons",387.0,403.862
+dish_1565811025,"spinach (raw), chicken, broccoli",277.0,361.050018
+dish_1566851584,"caesar salad, cheese pizza",222.0,286.294983
+dish_1565020926,"olive oil, sweet potato, grapes, berries, greek yogurt, egg whites, chia seeds, milk, bacon",489.0,398.496124
+dish_1566416701,"garlic, mushroom, wheat berry, olive oil, butter, salt, shallots, white wine, pepper, arugula, cream, oregano, thyme, basil, rosemary, lemon juice, chicken",122.0,198.53717
+dish_1565034681,"walnuts, pepper, chard, blueberries, cucumbers, lime, salt, lettuce, mustard, cheese pizza, cherry tomatoes, vinegar, arugula, olive oil, pizza, onions, mixed greens",185.0,323.553284
+dish_1565638515,"white rice, garlic, onions, zucchini, parsley, olive oil, rosemary, pork, green beans, arugula, salt",165.0,198.970978
+dish_1560456305,"mixed greens, lettuce, pumpkin seeds, mustard, salt, olive oil, vinegar, arugula, carrot",21.0,26.391596
+dish_1562876494,"pepper, chicken, squash, wheat berry, spinach (raw), zucchini, lemon juice, rosemary, basil, olive oil, garlic, thyme, salt, parsley",26.0,40.10693
+dish_1558376984,"almonds, deprecated, sausage, mixed greens, grapes",350.0,671.67804
+dish_1561739265,"sweet potato, hash browns, broccoli, egg whites, berries",308.0,292.040009
+dish_1559850314,"almonds, orange",100.0,296.617004
+dish_1566920339,"egg whites, sweet potato, olive oil",730.0,449.531708
+dish_1560801829,"squash, olive oil, pepperoni pizza, salt, cauliflower",178.0,256.89563
+dish_1565117429,cheese pizza,147.0,390.872986
+dish_1564689138,"garlic, onions, lemon juice, mustard, olive oil, almonds, mixed greens, lime, cherry tomatoes, pepper, cucumbers, spinach (raw), blueberries, vinegar, arugula, parsley, lettuce, salt, carrot, chickpeas, pears",223.0,268.266998
+dish_1563897938,bacon,10.0,54.099998
+dish_1558376437,cantaloupe,39.0,13.26
+dish_1560367904,"olive oil, garlic, salt, green onions, onions, fish, country rice",69.0,76.023148
+dish_1561661324,caesar salad,75.0,33.0
+dish_1564588919,"milk, greek yogurt, egg whites, blueberries, sweet potato, olive oil, chia seeds",452.0,335.944183
+dish_1558641253,corn on the cob,110.0,116.709999
+dish_1558031133,yam,110.0,136.51001
+dish_1562700593,"chive, apple, millet, cauliflower, pepper, vinegar, shallots, onions, snow peas, olive oil, lemon juice, mixed greens, artichokes, spinach (cooked), fish, corn, lentils, arugula, parsley, bok choy, garlic, salt, beef",384.0,385.773926
+dish_1558376212,almonds,52.0,300.612
+dish_1565898230,"garlic, bell peppers, beef, cherry tomatoes, brown rice, ginger, olive oil, vinegar, spinach (cooked), lime, shallots, bok choy, salmon, millet, vinaigrette, jalapenos, spinach (raw), green beans, feta cheese, cucumbers, lettuce, cilantro, lemon juice, onions, salt, chili, olives",500.0,780.202026
+dish_1561574394,"walnuts, caesar salad, mustard, olive oil, vinegar, blueberries, chard, arugula, pepper, salt",82.0,61.502373
+dish_1564160043,bagels,98.0,245.0
+dish_1566501575,brownies,54.0,251.693985
+dish_1558722125,almonds,86.0,497.166016
+dish_1558719570,apple,143.0,74.360001
+dish_1558546434,spinach (raw),11.0,2.53
+dish_1558641200,carrot,8.0,3.28
+dish_1561578775,cheese pizza,111.0,295.148987
+dish_1563898019,"bacon, chia seeds, greek yogurt, scrambled eggs, milk",237.0,343.977386
+dish_1561667207,"garlic, salt, sugar, bok choy, pork, pepper, white rice, soy sauce",121.0,249.444839
+dish_1567785778,"pineapple, bell peppers, berries, cucumbers, salt, mustard, olive oil, garlic, greek yogurt, vinegar, radishes, milk, chia seeds, sweet potato",310.0,303.507507
+dish_1568305198,turkey bacon,82.0,311.354004
+dish_1558639440,apple,116.0,60.32
+dish_1558630176,apple,142.0,73.839996
+dish_1558375732,grapes,66.0,45.540001
+dish_1567007848,"watermelon, raspberries, berries, cantaloupe, pineapple",243.0,100.300003
+dish_1566589933,tofu,122.0,89.060005
+dish_1563565289,corn on the cob,88.0,93.367996
+dish_1561577848,"salt, white wine, cream, oregano, arugula, lemon juice, olive oil, pepper, chicken, mushroom, wheat berry, butter, rosemary, thyme, shallots, garlic, basil",254.0,413.34787
+dish_1566838286,pineapple,145.0,72.5
+dish_1558630207,almonds,116.0,670.596008
+dish_1558113430,mixed greens,28.0,7.84
+dish_1565123783,cheese pizza,35.0,93.064995
+dish_1565638478,"green beans, olive oil",91.0,47.615753
+dish_1558549806,"almonds, white rice, spinach (raw)",203.0,781.958008
+dish_1561654374,"blackberries, mixed greens, raspberries, scrambled eggs, brussels sprouts, olive oil, pepper, salt, vinaigrette, granola",251.0,326.35553
+dish_1561667238,"caesar salad, salt, sugar, garlic, soy sauce, bok choy, white rice, pork, pepper",165.0,268.80484
+dish_1560203400,pepperoni pizza,104.0,293.279999
+dish_1565030391,"white rice, garlic, orange juice, onions, cucumbers, kale, green onions, lettuce, soy sauce, pepper, cherry tomatoes, beef, vinegar, olive oil, broccoli, lime, salt, chili, mixed greens",313.0,609.333923
+dish_1558635489,corn on the cob,74.0,78.514
+dish_1560367926,"onions, fish, garlic, salt, green onions, olive oil, pizza, country rice",194.0,408.523132
+dish_1566414342,"garlic, pepper, mushroom, oregano, cream, wheat berry, butter, basil, salt, shallots, white wine, chicken, quinoa, arugula, thyme, olive oil, rosemary, lemon juice, roasted potatoes",552.0,846.367065
+dish_1561654392,"olive oil, bacon, raspberries, salt, mixed greens, granola, blackberries, vinaigrette, pepper, scrambled eggs, brussels sprouts",282.0,494.065491
+dish_1558718649,cantaloupe,76.0,25.84
+dish_1562788506,corn on the cob,108.0,114.587997
+dish_1559849020,grapes,67.0,46.23
+dish_1567007719,cantaloupe,42.0,14.28
+dish_1562172643,"egg whites, roasted potatoes, bacon",457.0,734.269958
+dish_1568305225,"bell peppers, garlic, salt, cucumbers, mustard, olive oil, vinegar, turkey bacon, radishes",144.0,428.667786
+dish_1562009810,brown rice,108.0,119.880005
+dish_1562168800,"roasted potatoes, mixed greens, berries, raspberries, honeydew melons, vinaigrette, granola, blackberries",242.0,237.524826
+dish_1560801020,"cauliflower, garlic, spinach (raw), parmesan cheese, wheat berry, chickpeas, pepper, chicken breast, cherry tomatoes, thyme, lemon juice, olive oil, parsley, kale, bulgur, salt",250.0,346.339966
+dish_1558639412,cantaloupe,97.0,32.98
+dish_1566849862,olives,67.0,77.049995
+dish_1561654346,"olive oil, vinaigrette, pepper, mixed greens, granola, blackberries, salt, raspberries, brussels sprouts",84.0,79.195488
+dish_1560801797,"olive oil, squash, salt, cauliflower",96.0,25.655659
+dish_1562776465,"salt, pepper, sweet potato, olive oil, brussels sprouts",212.0,173.432449
+dish_1565896662,"chard, kale",57.0,19.380001
+dish_1558545738,apple,142.0,73.839996
+dish_1565123845,"olive oil, zucchini, onions, cheese pizza, spinach (cooked), shallots, millet, bok choy, salt, beef, chayote squash, vinegar",201.0,268.661774
+dish_1558546558,almonds,44.0,254.364014
+dish_1565898193,"brown rice, jalapenos, green beans, salmon, vinaigrette, olives, cilantro, lime, garlic, lemon juice, bell peppers, olive oil, feta cheese, spinach (raw), ginger, cherry tomatoes, shallots, chili, salt, lettuce, onions, cucumbers",268.0,291.914032
+dish_1566316726,"egg whites, olive oil, sweet potato",685.0,409.522888
+dish_1567785654,"berries, pineapple",96.0,51.779999
+dish_1565711498,"salt, pepper, brussels sprouts, scrambled eggs, olive oil",229.0,246.827271
+dish_1561578800,"cheese pizza, salt, mustard, olive oil, blueberries, arugula, chard, vinegar, pepper, walnuts",146.0,338.354706
+dish_1561662869,"basil, chicken, apple, chard, brown rice, lemon juice, rosemary, onions, salt, chive, millet, corn on the cob, vinegar, parsley, garlic, olive oil, carrot, mixed greens",192.0,284.34552
+dish_1559233627,bacon,12.0,64.919998
+dish_1563551105,"cream cheese, bagels",72.0,194.399994
+dish_1560456326,"thyme, zucchini, lemon juice, salt, garlic, rosemary, parsley, chicken, vinegar, arugula, pepper, wheat berry, olive oil, squash, basil, mustard, lettuce, mixed greens, pumpkin seeds, carrot, spinach (raw)",138.0,206.872757
+dish_1563566965,"salt, parsley, wild rice, blueberries, olive oil, arugula, chard, mustard, pecans, vinegar, mustard greens, chickpeas, garlic, pepper",286.0,370.827026
+dish_1561574456,"caesar salad, walnuts, cheese pizza, salt, mustard, vinegar, blueberries, arugula, chard, olive oil, pepper, cauliflower",217.0,203.657364
+dish_1562776428,"brussels sprouts, salt, pepper, olive oil",66.0,33.69978
+dish_1558110335,bacon,7.0,37.869999
+dish_1562774206,"mixed greens, raspberries, berries, scrambled eggs, roasted potatoes, vinaigrette, cantaloupe, blackberries, granola",272.0,298.76355
+dish_1559849537,"grapes, pears, mandarin oranges, almonds",393.0,549.52301
+dish_1559233756,"strawberries, bacon, sweet potato, pineapple",222.0,189.850006
+dish_1559850338,"almonds, orange, broccoli",130.0,307.117004
+dish_1562788568,"garlic, pilaf, green onions, onions, country rice, olive oil, salt, corn on the cob, fish",230.0,289.203369
+dish_1558031237,cantaloupe,93.0,31.620001
+dish_1558720133,cauliflower,57.0,14.25
+dish_1558031394,"cantaloupe, deprecated, potatoes, yam",318.0,237.410004
+dish_1559157919,"pepper, spinach (raw), arugula, blueberries, vinegar, chard, mustard, olive oil, walnuts, salt",39.0,37.094574
+dish_1567785739,"salt, bell peppers, garlic, cucumbers, olive oil, mustard, sweet potato, vinegar, berries, pineapple, radishes",177.0,168.576462
+dish_1557937615,strawberries,21.0,6.93
+dish_1558641287,cherry tomatoes,64.0,11.52
+dish_1565896701,"chard, olive oil, kale, salt, lime, garlic, cauliflower, steak, wheat berry",184.0,294.47345
+dish_1560975601,"broccoli, hominy, parsley, salt, chicken thighs, olive oil, chili, jalapenos, wheat berry, cabbage, garlic, tomatoes, lemon juice, caesar salad, lime, bell peppers",253.0,233.935638
+dish_1564689219,"cherry tomatoes, spinach (raw), vinegar, almonds, olive oil, parsley, lemon juice, salt, carrot, mixed greens, chickpeas, garlic, pepper, arugula, lentils, blueberries, tofu, onions, mustard, cucumbers, pears, lettuce, lime",474.0,506.847046
+dish_1565020796,"egg whites, bacon",99.0,90.599998
+dish_1566414412,"shallots, olive oil, garlic, lemon juice, basil, cream, wheat berry, mushroom, arugula, cherry tomatoes, quinoa, chicken, pepper, bell peppers, white wine, lettuce, feta cheese, roasted potatoes, onions, butter, thyme, rosemary, cucumbers, olives, oregano, vinaigrette, salt",658.0,920.120422
+dish_1558639482,corn on the cob,29.0,30.768999
+dish_1563909580,"mustard greens, cucumbers, tomatoes, salt, mustard, garlic, fried rice, cheese pizza, vinegar, spinach (raw), green beans, olive oil",361.0,544.311523
+dish_1566838317,"watermelon, pineapple",284.0,114.199997
+dish_1566920304,egg whites,570.0,296.399994
+dish_1558114284,"deprecated, grapes, cantaloupe",316.0,162.230011
+dish_1567785709,"radishes, berries, salt, garlic, olive oil, vinegar, cucumbers, mustard, pineapple, bell peppers",138.0,131.250626
+dish_1558639818,cantaloupe,59.0,20.059999
+dish_1558722207,apple,160.0,83.199997
+dish_1558722171,cauliflower,97.0,24.25
+dish_1561405411,"green beans, broccoli, salt, pears, chicken, lemon juice, vinegar, arugula, spinach (raw), parsley, olive oil, garlic, soy sauce, green onions, chickpeas, pepper, couscous, white rice, ginger",282.0,332.063477
+dish_1559841979,"broccoli, mandarin oranges",85.0,39.289997
+dish_1566328745,"chicken, cherry tomatoes",203.0,282.029999
+dish_1558376801,mixed greens,15.0,4.2
+dish_1558376483,"cantaloupe, almonds, grapes, sausage",270.0,735.030029
+dish_1561662842,"apple, vinegar, parsley, onions, carrot, salt, chive, chicken, millet, garlic, chard, brown rice, lemon juice, rosemary, olive oil, basil, mixed greens",172.0,263.125488
+dish_1562963289,"caesar salad, cheese pizza",180.0,349.917969
+dish_1561147967,"chard, vinegar, mustard, olive oil, carrot, salt, raspberries, cheese pizza, blueberries, arugula, almonds",85.0,177.980042
+dish_1563897087,"broccoli, egg whites",231.0,102.440002
+dish_1559157777,spinach (raw),11.0,2.53
+dish_1565020822,"olive oil, egg whites, sweet potato, bacon",193.0,180.56488
+dish_1561662160,"lemon juice, olive oil, onions, mixed greens, salt, apple, millet, parsley, vinegar",36.0,41.838322
+dish_1566589967,"onions, olive oil, garlic, bell peppers, salt, tomatoes, pepper, millet, chicken, spinach (raw), jalapenos, tofu",322.0,381.661957
+dish_1565118700,"chard, kale",49.0,16.66
+dish_1560800988,"pepper, cauliflower, chickpeas, salt, bulgur, olive oil, kale, lemon juice, parsley",230.0,314.865662
+dish_1563294987,bacon,18.0,97.379997
+dish_1565117463,"caesar salad, cheese pizza",248.0,435.312988
+dish_1567007783,"cantaloupe, berries, raspberries",106.0,50.0
+dish_1560456348,"parsley, pumpkin seeds, garlic, olive oil, thyme, zucchini, spinach (raw), vinegar, pepper, salt, mixed greens, carrot, green beans, lemon juice, mustard, arugula, rosemary, wheat berry, squash, chicken, basil, lettuce",149.0,210.282761
+dish_1566849987,"olives, carrot, chicken, cherry tomatoes, onions",540.0,562.969971
+dish_1563218408,pepperoni pizza,87.0,245.339996
+dish_1565898128,"shallots, garlic, salmon, cilantro, onions, lime, olive oil, ginger, jalapenos, brown rice, spinach (raw), salt, lemon juice, chili",134.0,209.030762
+dish_1558031351,deprecated,41.0,12.3
+dish_1565123816,"vinegar, millet, bok choy, beef, cheese pizza, salt, spinach (cooked), shallots, onions, olive oil",110.0,250.916733
+dish_1563996441,"blueberries, arugula, pepper, chard, vinegar, walnuts, salt, mustard, olive oil",65.0,80.239189
+dish_1564773942,"garlic, salmon, cherry tomatoes, chicken breast, mayonnaise, chive, broccoli, shallots, pineapple, pepper, pickles, arugula, lentils, olive oil, kale, parsley, lemon juice, salt",442.0,491.939545
+dish_1558376768,deprecated,143.0,74.360001
+dish_1560444967,"garlic, cucumbers, olive oil, mustard, honeydew melons, salt, bell peppers, yam, scrambled eggs, pineapple, radishes, watermelon, vinegar",252.0,197.377884
+dish_1559844323,"grapes, almonds",161.0,518.369995
+dish_1561741090,"cottage cheese, cantaloupe",221.0,161.540009
+dish_1561393715,broccoli,49.0,17.15
+dish_1566587182,"pepper, millet, avocado, spinach (raw), vinegar, olive oil, onions, bell peppers, salt, garlic, cherry tomatoes, chicken, jalapenos, mustard, celery root, mixed greens, tomatoes",377.0,531.260986
+dish_1563389548,grilled chicken,194.0,438.828003
+dish_1558639526,carrot,78.0,31.98
+dish_1561663606,"garlic, carrot, parsley, olive oil, basil, rosemary, lemon juice, brown rice, chard, salt, corn on the cob, chicken, chive",347.0,474.503387
+dish_1557936645,strawberries,36.0,11.88
+dish_1559844272,almonds,80.0,462.480011
+dish_1563305513,cheese pizza,228.0,606.251953
+dish_1567007814,"pineapple, berries, raspberries, cantaloupe",152.0,73.0
+dish_1565118782,"shallots, salt, kale, olive oil, onions, chard, vinegar, beef, apple, mixed greens, spinach (cooked), lemon juice, parsley, bok choy, millet",353.0,557.521606
+dish_1559578599,"bacon, strawberries, sweet potato",193.0,229.97998
+dish_1558718906,"corn on the cob, cantaloupe, cauliflower, almonds",247.0,282.580017
+dish_1564428102,"salt, garlic, olive oil, mustard, pecans, chard, arugula, vinegar, blueberries",107.0,133.219666
+dish_1560526490,"parsley, cucumbers, blueberries, mustard greens, almonds, olive oil, mustard, spinach (raw), pineapple, salt, carrot, tomatoes, garlic, berries, vinegar",170.0,141.67276
+dish_1561147944,"olive oil, mustard, carrot, salt, raspberries, almonds, arugula, vinegar, chard, blueberries",34.0,42.371025
+dish_1561393741,"broccoli, scrambled eggs",165.0,188.830002
+dish_1562703345,pizza,58.0,154.279999
+dish_1559239369,"berries, spinach (raw), orange",276.0,130.919998
+dish_1560456370,"green beans, garlic, zucchini, lemon juice, pumpkin seeds, salt, thyme, carrot, chicken, rosemary, basil, vinegar, spinach (raw), white rice, olive oil, squash, parsley, mustard, lettuce, mixed greens, pepper, wheat berry, arugula",186.0,258.382751
+dish_1566851704,"quinoa, cabbage, pork, lemon juice, thyme, broccoli, cheese pizza, pepper, wheat berry, mayonnaise, jalapenos, arugula, parsley, olive oil, carrot, salt, garlic, caesar salad, shallots",348.0,461.160156
+dish_1558110297,berries,51.0,29.07
+dish_1559239256,orange,128.0,60.16
+dish_1562168673,"mixed greens, blackberries, raspberries, honeydew melons, vinaigrette, granola",73.0,56.354836
+dish_1563565415,"lemon juice, parsley, cherry tomatoes, eggs, corn on the cob, mushroom, thyme, kale, carrot, garlic, bok choy, fish, shallots, ground turkey, cream, onions, celery, olive oil, wheat berry, chive, chard, salt, white rice",284.0,303.477142
+dish_1559844458,grapes,81.0,55.889999
+dish_1564588820,egg whites,156.0,81.119995
+dish_1563984199,"egg whites, cantaloupe, pineapple",670.0,322.679993
+dish_1559849097,"almonds, pears, grapes",325.0,495.928009
+dish_1563898107,"raspberries, greek yogurt, blueberries, bacon, pineapple, milk, chia seeds, scrambled eggs",424.0,440.69339
+dish_1563984296,"egg whites, olive oil, salsa, cantaloupe, sweet potato, pineapple",871.0,436.337067
+dish_1562099157,"cheese pizza, carrot, garlic, olive oil, quinoa, shallots, cherry tomatoes, vinegar, squash, chicken thighs, eggplant, pepper, lettuce, lime, mixed greens, green beans, onions, lemon juice, cucumbers, mushroom, wine, salt, spinach (cooked)",207.0,277.531311
+dish_1560800918,"parsley, pepper, chickpeas, bulgur, salt, lemon juice, kale, olive oil",40.0,70.825645
+dish_1565711453,scrambled eggs,134.0,198.320007
+dish_1561739160,berries,61.0,34.77
+dish_1558372948,almonds,119.0,687.939026
+dish_1561405332,broccoli,53.0,18.549999
+dish_1563221025,"salt, white rice, parmesan cheese, pork, spinach (raw), arugula, parsley, garlic, chicken breast, cherry tomatoes, wheat berry, onions, rosemary, zucchini, thyme, olive oil",123.0,245.445801
+dish_1565638550,"salt, pork, wheat berry, arugula, parsley, olive oil, chicken breast, white rice, green beans, onions, spinach (raw), zucchini, rosemary, parmesan cheese, garlic, thyme, cherry tomatoes",215.0,277.656799
+dish_1560445004,"bell peppers, olive oil, mustard, cucumbers, vinegar, watermelon, scrambled eggs, bok choy, bacon, salt, garlic, honeydew melons, pineapple, yam, radishes",290.0,339.5979
+dish_1566850142,"cabbage, lime, garlic, lettuce, carrot, olive oil, parsley, vinegar, jalapenos, cherry tomatoes, salt, mixed greens, lemon juice, cucumbers, onions, mayonnaise, wheat berry, pork, pepper",284.0,464.951172
+dish_1557937758,"blackberries, strawberries, yam, raspberries, eggs",128.0,106.782997
+dish_1563295016,"bacon, pineapple",79.0,127.879997
+dish_1558110478,"eggs, berries, bacon, yam",161.0,205.438995
+dish_1558376938,grapes,74.0,51.060001
+dish_1566849955,"olives, onions, cherry tomatoes, carrot",288.0,147.169998
+dish_1558373008,sausage,73.0,251.558014
+dish_1566838351,"berries, watermelon, pineapple",417.0,190.009995
+dish_1563566909,wild rice,187.0,222.530014
+dish_1557937157,"strawberries, broccoli, raspberries, eggs, bacon",271.0,355.25
+dish_1558030289,honeydew melons,107.0,38.52
+dish_1559233445,pineapple,49.0,24.5
+dish_1563898084,"bacon, milk, greek yogurt, blueberries, scrambled eggs, pineapple, chia seeds",384.0,419.493378
+dish_1557937427,eggs,17.0,26.434999
+dish_1565034661,"lime, walnuts, mustard, olive oil, cucumbers, arugula, pepper, cherry tomatoes, lettuce, salt, mixed greens, onions, blueberries, vinegar, chard, cheese pizza",146.0,219.813263
+dish_1557862696,cauliflower,77.0,19.25
+dish_1559841950,broccoli,32.0,11.2
+dish_1559238993,berries,108.0,61.559998
+dish_1558639849,carrot,57.0,23.369999
+dish_1561574815,"olive oil, blueberries, vinaigrette, walnuts, salt, cucumbers, onions, olives, feta cheese, arugula, vinegar, chard, pepper, cherry tomatoes, bell peppers, lettuce, mustard",89.0,74.852959
+dish_1558639555,"cantaloupe, corn on the cob, carrot, apple",320.0,156.049011
+dish_1563551134,"bagels, cream cheese, egg whites",173.0,246.919983
+dish_1558376874,almonds,58.0,335.298004
+dish_1565638599,"parmesan cheese, arugula, white rice, garlic, parsley, onions, olive oil, green beans, pork, wheat berry, spinach (raw), chicken breast, cherry tomatoes, quinoa, salt, rosemary, zucchini, thyme",279.0,368.698364
+dish_1566502472,"sun dried tomatoes, garlic, olive oil, mustard, cucumbers, vinegar, spinach (raw), onions, corn on the cob, salt",119.0,132.919037
+dish_1562691000,"olive oil, pineapple, berries, broccoli, scrambled eggs",349.0,326.621704
+dish_1563389600,"grilled chicken, cherry tomatoes",264.0,451.428009
+dish_1561662926,"millet, rosemary, parsley, brown rice, lemon juice, vinegar, corn on the cob, garlic, salt, apple, chicken, chard, onions, basil, olive oil, mixed greens, carrot, chive",213.0,288.335541
+dish_1565898402,"garlic, salmon, green beans, vinegar, ginger, jalapenos, spinach (raw), onions, lime, shallots, cilantro, millet, bok choy, spinach (cooked), brown rice, beef, olive oil, lemon juice, salt, chili",229.0,384.799225
+dish_1566851677,"quinoa, broccoli, salt, arugula, parsley, lemon juice, garlic, olive oil, caesar salad, thyme, shallots, cheese pizza",296.0,354.773834
+dish_1565020895,"olive oil, bacon, egg whites, berries, milk, chia seeds, greek yogurt, sweet potato",416.0,348.126129
+dish_1565035746,"onions, cauliflower",149.0,43.099998
+dish_1561663580,"chicken, chard, brown rice, salt, parsley, olive oil, rosemary, basil, lemon juice, chive, garlic, carrot",307.0,432.063416
+dish_1557862345,chicken,63.0,103.949997
+dish_1562774180,"cantaloupe, raspberries, blackberries, mixed greens, roasted potatoes, granola, vinaigrette, berries",181.0,164.083557
+dish_1563565354,"shallots, fish, corn on the cob, mushroom, ground turkey, cream, olive oil, thyme, onions, lemon juice, salt, parsley, carrot, white rice, cherry tomatoes, eggs, chard, wheat berry, kale, celery, chive, garlic",193.0,272.315186
+dish_1558718587,cauliflower,41.0,10.25
+dish_1558110436,yam,69.0,85.629005
+dish_1564588889,"egg whites, blueberries, greek yogurt, chia seeds, milk",346.0,234.494431
+dish_1562009934,"quinoa, mixed greens, garlic, parsley, mustard, lemon juice, brown rice, arugula, vinegar, olives, shallots, pears, salt, goat cheese, thyme, olive oil",369.0,434.914429
+dish_1562690917,"broccoli, olive oil, berries",122.0,69.061707
+dish_1557937574,blackberries,13.0,5.59
+dish_1564773826,cherry tomatoes,56.0,10.08
+dish_1563984167,"egg whites, cantaloupe",608.0,291.679993
+dish_1563566939,"vinegar, blueberries, wild rice, pecans, chard, arugula, mustard, olive oil, garlic, salt",238.0,286.027252
+dish_1563221054,"chicken breast, cherry tomatoes, vinegar, white rice, pork, wheat berry, spinach (raw), onions, zucchini, parsley, rosemary, olive oil, parmesan cheese, thyme, mustard, arugula, cranberries, garlic, salt, apple",170.0,298.877594
+dish_1558375886,"almonds, sausage, grapes",277.0,1050.511108
+dish_1560975628,"broccoli, hominy, olive oil, bell peppers, garlic, parsley, caesar salad, jalapenos, cabbage, wheat berry, tomatoes, chili, lime, salt, cheese pizza, lemon juice, chicken thighs",296.0,348.272644
+dish_1559578579,"bacon, strawberries",78.0,142.579987
+dish_1563221157,"salt, broccoli, lime, onions, olive oil, rosemary, vinegar, parmesan cheese, spinach (raw), sour cream, corn, parsley, zucchini, thyme, black beans, white rice, cheese, apple, chicken breast, garlic, cranberries, arugula, tortilla chips, wheat berry, pork, cherry tomatoes, chili, mustard, tomatoes",352.0,418.152008
+dish_1559934477,caesar salad,57.0,25.08
+dish_1565810969,spinach (raw),20.0,4.6
+dish_1564687013,"fish, onions, steak, ketchup, vinegar, spinach (raw), white rice, kale, jalapenos, bell peppers, cilantro, lime, millet, olive oil, shallots, salt",224.0,330.840851
+dish_1562172561,egg whites,290.0,150.799988
+dish_1558114145,grapes,83.0,57.27
+dish_1566414291,"olive oil, roasted potatoes, quinoa",244.0,345.14212
+dish_1561147997,"chard, vinegar, arugula, blueberries, olive oil, cheese pizza, almonds, salt, raspberries, mustard, zucchini, carrot",133.0,185.180023
+dish_1565894858,cookies,27.0,132.839996
+dish_1565034605,"lettuce, mixed greens, lime, olive oil, vinegar, cucumbers, onions, pepper, salt, cherry tomatoes",52.0,52.491199
+dish_1563897981,"scrambled eggs, bacon",138.0,243.540009
+dish_1567107839,"bell peppers, cilantro, lime, onions, kale, salt, olive oil, ketchup, jalapenos, fish, shallots, white rice",156.0,174.284485
+dish_1566849895,"olives, carrot",153.0,112.309998
+dish_1559850283,almonds,47.0,271.707001
+dish_1562099076,"olive oil, pepper, cheese pizza, salt, carrot",61.0,110.181
+dish_1563295044,"yam, sweet potato, pineapple, olive oil, bacon",158.0,241.975372
+dish_1563909550,"cucumbers, mustard, mustard greens, olive oil, garlic, green beans, tomatoes, salt, fried rice, vinegar, spinach (raw)",273.0,310.31958
+dish_1558114209,cantaloupe,90.0,30.6
+dish_1563208439,"raspberries, chicken apple sausage",96.0,92.610001
+dish_1558635523,white rice,43.0,55.899998
+dish_1562690950,"pineapple, broccoli, berries, olive oil",202.0,109.061714
+dish_1558461792,"grapes, spinach (raw), cherry tomatoes, almonds",233.0,331.0
+dish_1562700568,"fish, pepper, arugula, lemon juice, parsley, snow peas, mixed greens, chive, salt, corn, cauliflower, apple, millet, lentils, vinegar, olive oil, onions, artichokes, garlic",318.0,246.864426
+dish_1564686966,"ketchup, millet, salt, bell peppers, olive oil, spinach (raw), steak, vinegar, onions",65.0,153.204697
+dish_1565035774,"onions, cauliflower, bell peppers",185.0,57.5
